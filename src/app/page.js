@@ -20,7 +20,7 @@ export default function Home() {
   );
 
   return (
-    <section className="relative h-screen w-full -z-10">
+    <section className="relative h-screen w-full">
      
       <Image
         src={background}
